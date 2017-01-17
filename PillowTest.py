@@ -1,5 +1,5 @@
 from PIL import Image
-class PillowTest(object):
+class PillowTest:
     uslessVar = 0
     def __init__(self):
         uselessVar=0
